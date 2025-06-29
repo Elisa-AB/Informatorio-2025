@@ -18,7 +18,7 @@ Permite seleccionar y modificar materiales, configurar tiempos de estudio y desc
 
 Trabajamos de forma colaborativa a lo largo del mes, dividiendo las tareas según los intereses y conocimientos de cada integrante. Algunos se centraron en el desarrollo de la interfaz, otros en la lógica del temporizador y otros en aspectos organizativos.
 
-Aunque recién en la etapa final del proyecto se integró todo el código en Git, el desarrollo fue incremental, con reuniones periódicas para compartir avances, resolver dudas y tomar decisiones técnicas en grupo.
+Aunque recién en la etapa final del proyecto se integró todo el código en GitHub, el desarrollo fue incremental, con reuniones periódicas para compartir avances, resolver dudas y tomar decisiones técnicas en grupo.
 
 # Procedimiento de ejecución
 
